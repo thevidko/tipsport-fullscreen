@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Tipsport Fullscreen",
+  "version": "1.0",
+  "description": "Pokusí se spustit video přehrávač ve fullscreenu.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "Spustit video fullscreen"
+    // Můžete přidat i ikonu:
+    // "default_icon": {
+    //   "16": "images/icon16.png",
+    //   "48": "images/icon48.png",
+    //   "128": "images/icon128.png"
+    // }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
