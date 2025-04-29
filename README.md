@@ -1,6 +1,6 @@
 # Tipsport Fullscreen Livestream
 
-Skript, který zobrazí livestream z tipsportu na na fullscreen.
+Skript, který zobrazí livestream z tipsportu na fullscreen.
 
 Funguje jako rozšíření do prohlížeče (Chrome, Brave, ...)
 
@@ -8,8 +8,8 @@ Funguje jako rozšíření do prohlížeče (Chrome, Brave, ...)
 ## Instalace
 - Stáhnutí zdrojového kódu (.zip nebo git clone)
     - V případě .zipu je potřeba souboru extrahovat
-- V nastavení doplňků (chrome://extensions) je potřeba povolit vývojářský režim (Developer Mode)
-- Následně se objeví možnost Načíst rozbalené (Load unpacked)
+- V nastavení doplňků (`chrome://extensions`) je potřeba povolit **vývojářský režim** (**Developer Mode**)
+- Následně se objeví možnost **Načíst rozbalené** (**Load unpacked**)
 - Zvolíte složku se zdrojovým kódem
 
 ## Použití
